@@ -5862,8 +5862,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ea1979081d5a8141b1e48087366ae08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bibitPrefab: {fileID: 1658916258460226290, guid: 43032b49490e23a4882283495240cea2, type: 3}
-  tanamanPrefab: {fileID: 3244471473775439243, guid: 78577b7018b41d24da5428621adc849f, type: 3}
+  bibitPrefab: {fileID: 1629474415547038230, guid: c8c0b91b082eeb844a8606e399d021d0, type: 3}
+  tanamanPrefab: {fileID: 4344841587860533906, guid: 61f35997fdb88cf4392a69ef99d29334, type: 3}
   grid: {fileID: 1330819839}
   tanahTanamObject: {fileID: 1148365934}
   tilemapBlokir: {fileID: 20988066}
